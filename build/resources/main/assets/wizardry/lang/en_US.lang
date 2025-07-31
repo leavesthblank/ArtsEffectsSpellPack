@@ -1,0 +1,10 @@
+spell.cleareffects=Clear Effects
+spell.cleareffects.desc=Clears all effects of the Spell Caster.
+spell.invisibilityorb=Invisibility Orb
+spell.invisibilityorb.desc=Shoots an orb that's affected by gravity, that will turn the entity it hits invisible.
+spell.today=Set Time Day
+spell.today.desc=Sets the time to day.
+spell.tonight=Set Time Night
+spell.tonight.desc=Sets the time to night.
+spell.instantteleport=Instant Teleport
+spell.instantteleport.desc=Instantly teleport to where the caster is looking
