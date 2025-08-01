@@ -89,6 +89,9 @@
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
   <component name="libraryTable">
     <library name="Gradle: com.github.GTNewHorizons:CodeChickenCore:dev:1.1.10" type="java-imported" external-system-id="GRADLE">
       <properties groupId="com.github.GTNewHorizons" artifactId="CodeChickenCore" version="1.1.10" baseVersion="1.1.10" />

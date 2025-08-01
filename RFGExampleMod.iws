@@ -4,13 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dc6fe2e-99c3-4e9f-9cf9-3d5dc506d059" name="更改" comment="" />
+    <list default="true" id="9dc6fe2e-99c3-4e9f-9cf9-3d5dc506d059" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFGExampleMod.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/RFGExampleMod.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RFGExampleMod.iws" beforeDir="false" afterPath="$PROJECT_DIR$/RFGExampleMod.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/artsicleprojects/effectsPack/Spells/InstantTeleport.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/artsicleprojects/effectsPack/Spells/InstantTeleport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/artsicleprojects/effectsPack/Spells/InvisibilityOrb.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/artsicleprojects/effectsPack/Spells/InvisibilityOrb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2-dev.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2-dev.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/rfg/mclauncher-1.7.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/rfg/mclauncher-1.7.10.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/rfg/recompiled_minecraft-1.7.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/rfg/recompiled_minecraft-1.7.10.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/EffectsPack.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/InvisibilityOrb$1.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/InvisibilityOrb.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/artsicleprojects/effectsPack/Spells/InstantTeleport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/artsicleprojects/effectsPack/Spells/InstantTeleport.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
     <option name="REVERSE_PATCH" value="false" />
@@ -81,6 +97,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;leavesthblank&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/leavesthblank/ArtsEffectsSpellPack.git&quot;,
+    &quot;accountId&quot;: &quot;1935e3ff-e7de-422a-8ba7-1358d8426e1e&quot;
+  }
+}</component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
@@ -103,9 +134,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.1. Run Client.executor": "Run",
     "JAR 应用程序.ArtsEffectsSpellPack.jar.executor": "Run",
     "JAR 应用程序.Wizardry-1.7.10-Unofficial-1.1.6-sources.jar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -118,7 +151,7 @@
       <recent name="C:\Users\王彦桥\Downloads\ArtsEffectsSpellPack-master\src\main\resources\aef\textures" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR 应用程序.Wizardry-1.7.10-Unofficial-1.1.6-sources.jar">
+  <component name="RunManager" selected="Gradle.1. Run Client">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -267,8 +300,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR 应用程序.Wizardry-1.7.10-Unofficial-1.1.6-sources.jar" />
         <item itemvalue="JAR 应用程序.ArtsEffectsSpellPack.jar" />
+        <item itemvalue="JAR 应用程序.Wizardry-1.7.10-Unofficial-1.1.6-sources.jar" />
       </list>
     </recent_temporary>
   </component>
