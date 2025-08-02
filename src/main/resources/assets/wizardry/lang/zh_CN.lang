@@ -1,0 +1,10 @@
+spell.cleareffects=Clear Effects
+spell.cleareffects.desc=Clears all effects of the Spell Caster.
+spell.invisibilityorb=隐身球体
+spell.invisibilityorb.desc=发射一个受重力影响的球体,隐身击中的实体.
+spell.today=日出
+spell.today.desc=将时间设为白日.
+spell.tonight=日落
+spell.tonight.desc=将时间设为夜晚.
+spell.instantteleport=即时传送
+spell.instantteleport.desc=即刻传送到施法者所指的位置

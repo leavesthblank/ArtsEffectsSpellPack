@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dc6fe2e-99c3-4e9f-9cf9-3d5dc506d059" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RFGExampleMod.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/RFGExampleMod.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RFGExampleMod.iws" beforeDir="false" afterPath="$PROJECT_DIR$/RFGExampleMod.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/artsicleprojects/effectsPack/Spells/InstantTeleport.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/artsicleprojects/effectsPack/Spells/InstantTeleport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/artsicleprojects/effectsPack/Spells/InvisibilityOrb.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/artsicleprojects/effectsPack/Spells/InvisibilityOrb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2-dev.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2-dev.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/ArtsEffectsSpellPack-0.0.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/rfg/mclauncher-1.7.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/rfg/mclauncher-1.7.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/rfg/recompiled_minecraft-1.7.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/rfg/recompiled_minecraft-1.7.10.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/EffectsPack.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/InvisibilityOrb$1.class.uniqueId1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/InvisibilityOrb.class.uniqueId2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/artsicleprojects/effectsPack/Spells/InstantTeleport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/artsicleprojects/effectsPack/Spells/InstantTeleport.java" afterDir="false" />
+    <list default="true" id="9dc6fe2e-99c3-4e9f-9cf9-3d5dc506d059" name="更改" comment="fail to cast instant teleport won't consume mana">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,18 +121,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.1. Run Client.executor": "Run",
-    "JAR 应用程序.ArtsEffectsSpellPack.jar.executor": "Run",
-    "JAR 应用程序.Wizardry-1.7.10-Unofficial-1.1.6-sources.jar.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.1. Run Client.executor&quot;: &quot;Run&quot;,
+    &quot;JAR 应用程序.ArtsEffectsSpellPack.jar.executor&quot;: &quot;Run&quot;,
+    &quot;JAR 应用程序.Wizardry-1.7.10-Unofficial-1.1.6-sources.jar.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\王彦桥\Downloads\ArtsEffectsSpellPack-master\src\main\resources\assets\wizardry\textures\spells" />
@@ -328,9 +317,20 @@
       <option name="presentableId" value="Default" />
       <updated>1753971265246</updated>
     </task>
+    <task id="LOCAL-00001" summary="fail to cast instant teleport won't consume mana">
+      <option name="closed" value="true" />
+      <created>1754034754727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754034754728</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="fail to cast instant teleport won't consume mana" />
+    <option name="LAST_COMMIT_MESSAGE" value="fail to cast instant teleport won't consume mana" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
 </project>
